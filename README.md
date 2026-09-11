@@ -1,6 +1,22 @@
 # Alaska AI Connect
+# Alaska AI
 
-HEY I AM GOING TO BUILD A AI APP LIKE CHATGPT THE NAME IS ALASKA AI. MY GOAL IS TO BUILD A  AI ASSITANT APP THAT CAN CONNECT WITH FRIENDS I MEANS I WANNA SEE CHAT OPTIONS IN IT LIKE MESSENGER PEOPLE CAN CALL TEXT THEMSELVE AND WANT A SECTION FOR STORIES SO PEOPLE CAN UPLOAD THEIR REASERCH UPDATES AND THEIR FRIENDS CAN WATCH. I WILL UPLOAD MY LOGO AND HOW SHOULD IT LOOK FROM THE VERY BEGGINING. THE APEERANCE CHOICES CAN HAVE TWO WHITE WITH BLUE WHICH MATCH MY LOG AND FOR BLACK ALSO. AFTER REGISTRING SET UP WHEN IT COMES TO UI IT SHOULD LOOK LIKE YOURS LIKE LOVABLE BUT DONT NEED THESE WHICH ARE OCNNECTORS RESOURCES OWNED BY ME AND SHARED WITH IN YOUR SIDE BAR THERE IS PROJECTS SECTIONS RIGHT? REPLACE IT WITH ALASKA CHAT AND UNDER THERE WILL THREE FEATURES WHICH ARE CHAT(FROM CLICK PEOPLE CAN SEE PERSONAL AND GROUPS SECOND IS STORIES AND THIRD IS PROFILE FROM THERRE THEY CAN SET BIO AND CHAT RULES AND SEETINGS WHAT WHATSAPP HAVE DO THSI AND ASK ANYTHNG U WANT
+**Alaska AI** is an AI-powered social platform that combines an AI assistant with messaging and social sharing.
+
+### Features
+
+* 🤖 **AI Chat** — Chat with an AI assistant
+* 💬 **Messaging** — Personal and group conversations
+* 📖 **Stories** — Share research, project, and personal updates
+* 👤 **Profile** — Manage your bio, chat rules, and settings
+* 🎨 **Light & Dark Mode** — White/blue and dark/blue themes
+
+### Vision
+
+The goal of Alaska AI is to bring **AI, communication, and social sharing together in one platform**.
+
+> **AI, communication, and connection in one place.**
+
 
 This project was built with [Lovable](https://lovable.dev).
 
