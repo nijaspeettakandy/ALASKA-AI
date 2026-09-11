@@ -1,0 +1,14 @@
+REVOKE EXECUTE ON FUNCTION public.bump_rate_limit(text, integer) FROM anon, public;
+REVOKE EXECUTE ON FUNCTION public.log_moderation_event(text, text, text[], text, text, text) FROM anon, public;
+REVOKE EXECUTE ON FUNCTION public.recent_violation_count(integer) FROM anon, public;
+REVOKE EXECUTE ON FUNCTION public.active_suspension() FROM anon, public;
+REVOKE EXECUTE ON FUNCTION public.suspend_self(integer, text) FROM anon, public;
+REVOKE EXECUTE ON FUNCTION public.has_role(uuid, public.app_role) FROM anon, public;
+REVOKE EXECUTE ON FUNCTION public.is_moderator(uuid) FROM anon, public;
+GRANT EXECUTE ON FUNCTION public.bump_rate_limit(text, integer) TO authenticated;
+GRANT EXECUTE ON FUNCTION public.log_moderation_event(text, text, text[], text, text, text) TO authenticated;
+GRANT EXECUTE ON FUNCTION public.recent_violation_count(integer) TO authenticated;
+GRANT EXECUTE ON FUNCTION public.active_suspension() TO authenticated;
+GRANT EXECUTE ON FUNCTION public.suspend_self(integer, text) TO authenticated;
+GRANT EXECUTE ON FUNCTION public.has_role(uuid, public.app_role) TO authenticated;
+GRANT EXECUTE ON FUNCTION public.is_moderator(uuid) TO authenticated;
